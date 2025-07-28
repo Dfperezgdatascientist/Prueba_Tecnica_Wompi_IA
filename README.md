@@ -31,3 +31,5 @@ Se entregar un archivo Jupyter Notebook (Prueba_tecnica_Wompi_IA.ipynb) funciona
 * uso de un LLM.
 * Prompt de contexto.
 * Sección realizar preguntas al documento que responda con referencia a los chunks recuperado/utilizados.
+
+![Flujo_ia](Flujo_IA_agente.png)
