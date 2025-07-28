@@ -1,4 +1,4 @@
-![BC](Imagenes\Wompi.png)
+![BC](Wompi.png)
 # **Prueba Técnica - Ingeniero IA**
 ## Prueba Analítica: *Agente IA pasarela de pagos*
 ### Ingeniero de IA:
@@ -22,7 +22,7 @@ Debes construir un sistema que permita responder preguntas sobre su contenido me
 
 **Entregables**
 
-Debes entregar un archivo Jupyter Notebook (.ipynb) funcional que cumple con estos pasos:
+Se entregar un archivo Jupyter Notebook (Prueba_tecnica_Wompi_IA.ipynb) funcional que cumple con estos pasos:
 
 
 * Carga del documento  
