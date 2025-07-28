@@ -1,4 +1,4 @@
-![BC](imagenes\Wompi.png)
+![BC](Imagenes\Wompi.png)
 # **Prueba Técnica - Ingeniero IA**
 ## Prueba Analítica: *Agente IA pasarela de pagos*
 ### Ingeniero de IA:
